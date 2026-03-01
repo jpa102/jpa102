@@ -5,8 +5,9 @@
 * i'm still not confident in my english, and still wack at japanese language (0.77% / 100%)
 * i only know these languages: javascript, java, html, css, and c# (javascript at the basic level of knowledge, c# and java are the languages i still can't get right)
 * i love playing the pc releases of the gta trilogy (not the definitive though), i also know a little bit of gta san andreas cleo scripting
+* mostly responds in lowercase, unless if i'm in a formal environment
 
-i just love seeing tech break, goldmine for me to debug and inspect on. also love testing things in general whenever i feel like it
+i just love seeing tech break, goldmine for me to debug, experiment, and inspect on. also love testing things in general whenever i feel like it
 
 ***
 
